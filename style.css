@@ -1,0 +1,19 @@
+body{
+    background: rgb(24,24,164);
+    background: linear-gradient(90deg, rgba(24,24,164,1) 35%, rgba(43,151,218,1) 71%, rgba(1,184,237,1) 91%); 
+}
+
+h1{
+  color: white;
+}
+
+#timerbox{
+    color: white;
+    font-size: 70px;
+    border: 2px solid white;border-width: 5px;
+    padding: 20px;
+    position: relative;
+    left: 430px;
+    top: 230px;
+    
+}
